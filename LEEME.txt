@@ -1,0 +1,10 @@
+ALEKS MATH AI 4.3 — PAQUETE GRATUITO
+Incluye OCR local para leer texto de una imagen y motor matemático offline ampliado:
+- Operaciones, paréntesis, potencias, porcentajes escritos como multiplicación
+- sqrt(...), abs(...), pi
+- Ecuaciones lineales de una variable (x)
+- Ecuaciones cuadráticas de la forma ax^2+bx+c=0
+- Fórmulas sencillas de área, perímetro y volumen (consulta los ejemplos de la app)
+No usa clave API, suscripción ni servidor.
+IMPORTANTE: es código fuente, no APK. No resuelve todos los temas ni interpreta perfectamente cualquier captura. Comprueba lo que lea el OCR.
+Compilación: sigue INSTALAR_DESDE_SOLO_EL_TELEFONO.txt desde tu Samsung.

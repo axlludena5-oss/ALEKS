@@ -1,0 +1,9 @@
+INSTALAR DESDE SOLO TU SAMSUNG A36
+1. Descarga y descomprime este ZIP usando Mis archivos.
+2. En GitHub crea un repositorio público vacío.
+3. Sube TODOS los archivos y carpetas descomprimidos. Debe verse .github/workflows/build-apk.yml en el repositorio.
+4. Abre la pestaña Actions, selecciona “Build Android APK” y pulsa “Run workflow”.
+5. Cuando termine correctamente, abre la ejecución y descarga el artefacto “ALEKS-Math-AI-debug”.
+6. Descomprime el artefacto y toca app-debug.apk para instalarlo. Si Android lo solicita, permite instalar desde esa fuente.
+La compilación en GitHub Actions puede ser gratuita dentro de los límites de GitHub.
+Este ZIP contiene el proyecto y el flujo de compilación, NO un APK ya compilado.
